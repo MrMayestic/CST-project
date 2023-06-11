@@ -16,7 +16,7 @@ This repository won't allow to fully recreate the game. This repository doesn't 
 
 Game contains some models/modules based on creations of other people:
 
--Placement module based on zblox164's "PlacementModuleV3"
--Color picker based on Stonetr03 Studios's "Color Picker"
--Feedback system based on MrSprinkleToes's "Feedback System"
--Daily reward system based on Sub2HTR (HowToRoblox)'s "Daily Rewards"
+- Placement module based on zblox164's "PlacementModuleV3"
+- Color picker based on Stonetr03 Studios's "Color Picker"
+- Feedback system based on MrSprinkleToes's "Feedback System"
+- Daily reward system based on Sub2HTR (HowToRoblox)'s "Daily Rewards"
