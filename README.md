@@ -4,7 +4,7 @@
 - [Important note](#important-note)
 - [Used modules](#used-modules)
 - [Notes](#Notes)
-- 
+  
 ## General info
 
 This project is a [Computer Store Tycoon Game](https://www.roblox.com/games/5380202554) available on Roblox platfrom. Game is about building and managing retail-based computer store.
