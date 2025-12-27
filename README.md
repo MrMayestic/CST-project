@@ -1,6 +1,7 @@
 ## Table of contents
 
 - [General info](#general-info)
+- [Showcase](#showcase)
 - [Important note](#important-note)
 - [Used modules](#used-modules)
 - [Notes](#Notes)
@@ -8,6 +9,18 @@
 ## General info
 
 This project is a [Computer Store Tycoon Game](https://www.roblox.com/games/5380202554) available on Roblox platfrom. Game is about building and managing retail-based computer store.
+<p align="center">
+  <a href="https://www.roblox.com/games/5380202554">
+    <img src="photos/icon.png" alt="Icon" width="25%">
+  </a>
+</p>
+
+
+## Showcase
+<p align="center">
+    <img src="photos/building.png" alt="Icon" width="65%">
+    <img src="photos/showcase.png" alt="Icon" width="65%">
+</p>
 
 ### Important note
 
