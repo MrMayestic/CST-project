@@ -18,8 +18,8 @@ This project is a [Computer Store Tycoon Game](https://www.roblox.com/games/5380
 
 ## Showcase
 <p align="center">
-    <img src="photos/building.png" alt="Icon" width="65%">
-    <img src="photos/showcase.png" alt="Icon" width="65%">
+    <img src="photos/building.png" alt="Icon" width="75%">
+    <img src="photos/showcase.png" alt="Icon" width="75%">
 </p>
 
 ### Important note
